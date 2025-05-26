@@ -3,7 +3,7 @@
 An advanced HR Performance Dashboard built with **React.js**, **Tailwind CSS**, and **Radix UI**, designed to help HR managers evaluate employee performance, manage bookmarks, and access rich analytics.
 
 ---
-#**Once Run the folder or check the output images **
+# Once Run the folder or check the output images
 ## 🚀 Features
 
 ### 🏠 Dashboard Homepage
