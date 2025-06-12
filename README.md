@@ -1,8 +1,32 @@
-# React + Vite
+# HR Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **HR Dashboard** built with **React (Vite)** and **Tailwind CSS**, designed for real-time HR analytics and management.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📊 **Interactive UI** for visualizing key HR metrics
+- 📁 **API integration** to fetch dynamic employee and company data
+- 🔄 **Real-time updates** with clean data flow using React's state management
+- 🖥️ **Responsive design** — fully optimized for desktop, tablet, and mobile
+- ⚙️ Built with **Vite** for lightning-fast development and build performance
+- 🎨 Tailwind CSS for clean, scalable, and utility-first styling
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React (Vite), Tailwind CSS
+- **Deployment:** Vercel
+- **Data:** REST API integration
+
+## 📸 Live Demo
+
+👉 [Live Site](https://hr-dashboard-git-main-charan-s-projects-647ac572.vercel.app)
+
+## 📂 Folder Structure
+
+
+src/
+├── components/
+├── pages/
+├── assets/
+├── App.jsx
+├── main.jsx
